@@ -1,0 +1,1 @@
+4cbebb9d4a897cfc1fbecc2b5e1b02d6bb43cf3a  safenetauthenticationclient_10.8.1050_amd64.deb
